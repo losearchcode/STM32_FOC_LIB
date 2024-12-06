@@ -401,7 +401,7 @@ static void LCD_Task(void* parameter)
 		{
 			LCD_Show_Parameter.LED1_Delay_time_Show = LED1_Delay_time;
 			LCD_Show_Parameter.AS5600_angle_Show = getAngle(FOC_Init_Parameter[0].Sensor_AS5600_);
-			LCD_Show_Parameter.xCurrent_electricalAngle_Show = getMechanicalAngle(FOC_Init_Parameter[0].Sensor_AS5600_) ;
+			LCD_Show_Parameter.xCurrent_electricalAngle_Show = _electricalAngle(&FOC_Init_Parameter[0]) ;
 //			LCD_Show_Parameter.xCurrent_Vel_Show = getVelocity(FOC_Init_Parameter[0].Sensor_AS5600_);
 			LCD_Show_Parameter.xElapsedTime_Show = FOC_Init_Parameter[0].Sensor_AS5600_->Vel_Interval_ts;
 //			LCD_Show_Dynamic(parameter);
