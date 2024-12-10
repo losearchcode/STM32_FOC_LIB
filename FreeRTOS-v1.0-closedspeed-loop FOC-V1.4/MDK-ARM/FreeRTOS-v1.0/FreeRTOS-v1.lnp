@@ -43,9 +43,9 @@
 ".\freertos-v1.0\bldcmotor.o"
 ".\freertos-v1.0\foc_utils.o"
 ".\freertos-v1.0\focmotor.o"
-".\freertos-v1.0\lowpass_filter_1.o"
+".\freertos-v1.0\lowpass_filter.o"
 ".\freertos-v1.0\magneticsensor.o"
-".\freertos-v1.0\pid_1.o"
+".\freertos-v1.0\pid.o"
 --library_type=microlib --strict --scatter ".\FreeRTOS-v1.0\FreeRTOS-v1.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers
