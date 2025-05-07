@@ -30,11 +30,11 @@ This project is based on the STM32 (STM32F401CC) C version of the FOC library.
 
 | 功能         | 实现 |
 | ------------ | ---- |
-| 开环角度控制 | √    |
-| 开环速度控制 | √    |
-| 闭环角度控制 | √    |
-| 闭环速度控制 | √    |
-| 闭环力矩控制 | √    |
+| 开环角度控制 | √   |
+| 开环速度控制 | √   |
+| 闭环角度控制 | √   |
+| 闭环速度控制 | √   |
+| 闭环力矩控制 | √   |
 
 ## 项目编译
 
@@ -78,6 +78,10 @@ V1.4之前是参考灯哥开源的DengFOC的自写库截至位置-速度闭环�
 
 Before V1.4, it was a reference to Dengfoc's open-source self-writing library cut-off position-speed closed loop, and then the version was connected to simpleFOC, and the induced current loop was completed, and the inducted special project was basically completed.
 
+**最后一版main.c文件已丢失，具体内容可参考历史版本V1.9。**
+
+**The last version of the main.c file has been lost, please refer to the previous version V1.9 for details.**
+
 # 小请求
 
 期待各位的Star，您的每一份Star都是我开源的动力。
@@ -88,17 +92,10 @@ Looking forward to all of you's Star, every one of your Star is the driving forc
 
 项目参考[野火FreeRTOS](https://doc.embedfire.com/rtos/freertos/zh/latest/index.html)、灯哥开源的[DengFOC](http://dengfoc.com/#/)、[SimpleFOC 中文](http://simplefoc.cn/#/)和[CSDN loop222博主的simpleFOC移植教程](https://blog.csdn.net/loop222/article/details/119220638)，在此由衷感谢。
 
-Project references [Embedfire FreeRTOS](https://doc.embedfire.com/rtos/freertos/zh/latest/index.html), Dengge Open Source [DengFOC](http://dengfoc.com/#/), [SimpleFOC Chinese](http://simplefoc.cn/#/) and [CSDN loop222 blogger's simpleFOC porting tutorial](https://blog.csdn.net/loop222/article/details/119220638), I would like to thank you from the bottom of my heart.
+Project references [Embedfire FreeRTOS](https://doc.embedfire.com/rtos/freertos/zh/latest/index.html), Dengge Open Source [DengFOC](http://dengfoc.com/#/), [SimpleFOC Chinese](http://simplefoc.cn/#/) and [CSDN loop222 blogger&#39;s simpleFOC porting tutorial](https://blog.csdn.net/loop222/article/details/119220638), I would like to thank you from the bottom of my heart.
 
 # 最后的最后
 
 所有资源源于网络，如有侵权，请联系作者
 
 All resources come from the Internet, if there is any infringement, please contact the author.
-
-
-
-
-
-
-
