@@ -82,6 +82,13 @@ Before V1.4, it was a reference to Dengfoc's open-source self-writing library cu
 
 **The last version of the main.c file has been lost, please refer to the previous version V1.9 for details.**
 
+2025-5-11
+
+双轮FOC案例基于另一个项目，接口与本项目不同，可以参考其中main文件思路进行拓展或移植。
+
+The two-wheel FOC case is based on another project, the interface is different from this project, you can refer to the main file of which ideas for expansion or transplantation.
+
+
 # 小请求
 
 期待各位的Star，您的每一份Star都是我开源的动力。
