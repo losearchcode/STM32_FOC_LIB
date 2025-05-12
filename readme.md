@@ -88,12 +88,23 @@ Before V1.4, it was a reference to Dengfoc's open-source self-writing library cu
 
 The two-wheel FOC case is based on another project, the interface is different from this project, you can refer to the main file of which ideas for expansion or transplantation.
 
-
 # 小请求
 
 期待各位的Star，您的每一份Star都是我开源的动力。
 
 Looking forward to all of you's Star, every one of your Star is the driving force for my open source.
+
+
+## Star History
+
+<a href="https://www.star-history.com/#losearchcode/STM32_FOC_LIB&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=losearchcode/STM32_FOC_LIB&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=losearchcode/STM32_FOC_LIB&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=losearchcode/STM32_FOC_LIB&type=Date" />
+ </picture>
+</a>
+
 
 # 参考资料
 
